@@ -1,0 +1,90 @@
+body {
+ 	background-color: black; 
+ 	color: #5C57B3; 
+	font-family: "Neverwinter";
+	font-size: 30px;
+	
+	margin-left: 20px;
+	
+
+ 	background-image: url("../images/nwn5.jpg");
+	background-repeat: no-repeat;
+ 	background-position: right;
+ 	background-attachment: fixed;
+ 	background-size: 80%;
+
+}
+
+
+
+h1 {
+  
+	-webkit-text-stroke: 1px white;
+  	color: #5C57B3;
+
+	font-family: "Neverwinter";
+	font-size: 70px; 
+	left: 50%;
+  
+  	margin-top: 40px; 
+  	
+}
+
+
+
+table {
+        border-collapse: collapse;
+         margin-left:35px;
+ 
+      }
+    
+
+  td {
+        
+
+
+        padding: 8px;
+        text-align: center;
+
+      }
+
+.boton {
+	
+	font-size: 25px;
+  	font-family: "Neverwinter";
+	
+	
+}
+
+
+.regresar{
+
+font-size: 25px;
+
+
+}
+
+
+.espacio {
+
+height: 20px;
+}
+
+
+a {
+  color: #5C57B3; /* cambia el color del texto del enlace */
+  text-decoration: none; /* quita la línea de abajo del texto del enlace */
+}
+
+a:visited {
+  color: #5C57B3; /* cambia el color del texto del enlace visitado */
+}
+
+a:hover {
+  color: #741C29; /* cambia el color del texto del enlace cuando el cursor se mueve sobre él */
+}
+
+a:active {
+  color: #741C29; /* cambia el color del texto del enlace cuando se hace clic en él */
+}
+

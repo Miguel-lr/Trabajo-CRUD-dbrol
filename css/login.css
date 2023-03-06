@@ -1,0 +1,58 @@
+body {
+ 	background-color: black; 
+ 	color: #5C57B3; 
+	font-family: "Neverwinter";
+	font-size: 40px;
+	margin-top: 30px;
+	
+	overflow: hidden;
+
+ 	background-image: url("../images/nwn.jpg");
+	background-repeat: no-repeat;
+ 	background-position: center;
+ 	background-attachment: fixed;
+ 	background-size: 65%;
+
+}
+
+div {
+  position: absolute;
+  left: 52%;
+  transform: translate(-50%, 50%);
+  width: 200px;
+  height: 630px;
+font-size: 25px;
+
+}
+
+
+
+a {
+  color: #5C57B3; 
+  text-decoration: none; 
+}
+
+a:visited {
+  color: #5C57B3; 
+}
+
+a:hover {
+  color: #741C29; 
+}
+
+a:active {
+  color: #741C29; 
+}
+
+
+
+
+
+
+
+
+ 
+
+
+
+

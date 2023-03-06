@@ -1,0 +1,6 @@
+Ejecutar index.php
+
+Nombre de bd: dbrol
+
+Usuario creado por defecto: lndadmin / abc
+
